@@ -1,4 +1,21 @@
 ## UNIT - 4
+- [ ] Controlling: Controlling,
+- [ ]  Introduction to Controlling System and processof Controlling,
+- [ ]  Requirements for effective control,
+- [ ]  Theplanning Contol link,
+- [ ]  The process of control,
+- [ ]  types ofcontrol The Budget as Control Technique,
+- [ ]  InformationTechnology in Controlling,
+- [ ]  Productivity,
+- [ ]  Problems andManagement,
+- [ ]  Control of Overall Performance,
+- [ ]  Direct andPreventive Control,
+- [ ]  Financial Controls,
+- [ ]  Tools formeasuring organizational Performance,
+- [ ]  Contemporaryissues in control Workplace concerns,
+- [ ]  employee theft,
+- [ ] employee violence
+
 
 ## Controlling 
 In the context of management, controlling refers to the process of ensuring an organization's activities are aligned with its goals. It's like monitoring the gauges and steering wheel of a car on a long trip to stay on course and avoid problems. Here's a breakdown of the key elements of control:
